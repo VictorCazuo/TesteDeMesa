@@ -1,0 +1,8 @@
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa3-certo\TesteDeMesa3-certo\obj\Debug\TesteDeMesa3-certo.csproj.AssemblyReference.cache
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa3-certo\TesteDeMesa3-certo\obj\Debug\TesteDeMesa3-certo.csproj.CoreCompileInputs.cache
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa3-certo\TesteDeMesa3-certo\bin\Debug\TesteDeMesa3-certo.exe.config
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa3-certo\TesteDeMesa3-certo\bin\Debug\TesteDeMesa3-certo.exe
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa3-certo\TesteDeMesa3-certo\bin\Debug\TesteDeMesa3-certo.pdb
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa3-certo\TesteDeMesa3-certo\obj\Debug\TesteDeMesa3-certo.exe
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa3-certo\TesteDeMesa3-certo\obj\Debug\TesteDeMesa3-certo.pdb
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa3-certo\TesteDeMesa3-certo\obj\Debug\TesteDeMesa3-certo.exe.config
