@@ -1,0 +1,8 @@
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa1\TesteDeMesa1.Console\obj\Debug\TesteDeMesa1.csproj.AssemblyReference.cache
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa1\TesteDeMesa1.Console\obj\Debug\TesteDeMesa1.Console.exe.config
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa1\TesteDeMesa1.Console\obj\Debug\TesteDeMesa1.csproj.CoreCompileInputs.cache
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa1\TesteDeMesa1.Console\obj\Debug\TesteDeMesa1.Console.exe
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa1\TesteDeMesa1.Console\obj\Debug\TesteDeMesa1.Console.pdb
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa1\TesteDeMesa1.Console\bin\Debug\TesteDeMesa1.Console.exe.config
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa1\TesteDeMesa1.Console\bin\Debug\TesteDeMesa1.Console.exe
+C:\Users\Victor Cazuo\source\repos\TesteDeMesa1\TesteDeMesa1.Console\bin\Debug\TesteDeMesa1.Console.pdb
